@@ -1,5 +1,10 @@
 # Implementation of WordPress Nonces in an object oriented way
 
+## Installation
+```shell
+	composer require asvinb/wp-nonce-oo
+```
+
 ## How to use
 
 Create nonce
@@ -33,7 +38,7 @@ Verifies the AJAX request to prevent processing requests external of the blog.
 ```
 
 ## Testing
-```php
+```shell
 vendor/bin/phpunit
 ```
 
