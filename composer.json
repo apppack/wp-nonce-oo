@@ -1,5 +1,6 @@
 {
     "name": "asvinb/wp-nonce-oo",
+    "license": "GPL-3.0+",
     "authors": [
         {
             "name": "Asvin Balloo",
